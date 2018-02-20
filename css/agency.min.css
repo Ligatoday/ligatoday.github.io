@@ -170,14 +170,15 @@ img::-moz-selection {
 header.masthead {
     text-align: center;
     color: #fff;
-    background-image: url(../serebro-blestki-fon.jpg);
+    background-image: url(../header-bg.jpg);
     background-repeat: no-repeat;
     background-attachment: scroll;
     background-position: center center;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
-    background-size: contain
+    background-size: cover
+
 }
 
 header.masthead .intro-text {
@@ -605,7 +606,7 @@ header.masthead .intro-text .intro-heading {
 
 section#contact {
     background-color: #212529;
-    background-image: url(../img/serebro-blestki-fon.jpg);
+    background-image: url(../img/header-bg.jpg);
     background-repeat: no-repeat;
     background-position: center
 }

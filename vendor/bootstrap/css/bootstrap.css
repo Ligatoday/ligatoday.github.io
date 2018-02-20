@@ -3859,6 +3859,7 @@ tbody.collapse.show {
 .nav-link {
   display: block;
   padding: 0.5rem 1rem;
+  font-syle: bold;
 }
 
 .nav-link:hover, .nav-link:focus {
@@ -3979,6 +3980,7 @@ tbody.collapse.show {
   font-size: 1.25rem;
   line-height: inherit;
   white-space: nowrap;
+
 }
 
 .navbar-brand:hover, .navbar-brand:focus {

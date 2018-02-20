@@ -133,7 +133,7 @@ img::-moz-selection {
     color: #fed136
 }
 
-@media (min-width: 900px) {
+@media (min-width: 992px) {
     #mainNav {
         padding-top: 25px;
         padding-bottom: 25px;
@@ -177,7 +177,7 @@ header.masthead {
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
-    background-size: cover
+    background-size: contain
 }
 
 header.masthead .intro-text {
